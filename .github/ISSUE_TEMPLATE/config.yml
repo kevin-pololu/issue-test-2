@@ -1,7 +1,4 @@
 contact_links:
-  - name: GitHub Community Forum
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: Pololu Forum
+    url: https://forum.pololu.com/
+    about: If you need help getting started, can't get this code to work at all, or are having problems with electronics, please post on our forum.
